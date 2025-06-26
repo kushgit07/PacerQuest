@@ -1,4 +1,4 @@
-# PACER Quest
+# PACER Ques
 
 PACER Quest is an AI-powered interactive learning game that converts text into gamified flashcards using the **PACER (Procedural, Analogous, Conceptual, Evidence, Reference) enrichment** method. It enhances retention and understanding by structuring learning content into engaging flashcards and quizzes.
 
